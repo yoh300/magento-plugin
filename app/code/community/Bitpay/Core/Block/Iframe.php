@@ -4,6 +4,7 @@
  * @see https://github.com/bitpay/magento-plugin/blob/master/LICENSE
  * 
  * TODO: Finish this iFrame implemenation... :/
+ * Edit on server
  */
 
 class Bitpay_Core_Block_Iframe extends Mage_Checkout_Block_Onepage_Payment
